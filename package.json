@@ -1,0 +1,17 @@
+{
+  "name": "tic_tac_toe_game",
+  "version": "1.0.0",
+  "description": "This is the tic tac toe game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Tushar Aggarwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "socket.io": "^4.3.1"
+  }
+}

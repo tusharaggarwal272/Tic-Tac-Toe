@@ -1,0 +1,94 @@
+.square {
+    width: 140px;
+    height: 140px;
+    line-height: 140px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #a070443b;
+    border: 1px solid black;
+    border-radius: 5rem;
+    margin: 1rem 1rem;
+    box-shadow: 6px 6px 6px 6px rgb(123,124,133);
+  }
+  li{
+    list-style: none;
+  }
+  
+  .containerbox {
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    border-radius: 5rem;
+  }
+  .box{
+    font-size: 2rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: center;
+   
+  }
+  
+  .textcontainer {
+    justify-content: center;
+    /* border: 2px solid black; */
+    margin-bottom: 10px;
+    
+  }
+  #activeUserCount{
+    font-size: 2rem;
+  }
+  
+  #role {
+    font-weight: bold;
+    padding-bottom: 10px;
+    font-size: 2rem;
+  }
+  .Hello{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: brown;
+    color: white;
+    
+  }
+  .Hello li{
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin:1rem 1rem;
+  }
+    
+  
+  #message {
+    padding-bottom: 20px;
+    font-size: 2rem;
+  }
+  
+  #reset {
+    /* margin-top: 20px;
+    background-color: #fff;
+    padding: 10px;
+    font-size: 14px; */
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    /* border-radius: 5rem; */
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin:1rem 1rem;
+    background-color: brown;
+    color: white;
+  }
+  #login-btn{
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin:1rem 1rem;
+    background-color: skyblue;
+  }
